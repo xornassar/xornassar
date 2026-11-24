@@ -1,6 +1,6 @@
 # Hi, I'm Eman Nassar 👋
 
-![A little dancing cactus](cactus-bounce.gif)
+![A little dancing cactus](cactus-dance.gif)
 
 🎓 Third-year Computer Science student at the Faculty of Computers and Informatics, Tanta University
 
