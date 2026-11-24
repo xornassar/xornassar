@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Eman Nassar 👋
 
-<!--
-**xornassar/xornassar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Science student at the Faculty of Computers and Informatics, Tanta University
 
-Here are some ideas to get you started:
+🔐 SOC Analyst, interested in cybersecurity and security operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about problem-solving with C++ and currently learning backend development
+
+### Languages
+C++ · Python · C#
+
+### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/emannassar)
+- [Codeforces](https://codeforces.com/profile/xornassar)
