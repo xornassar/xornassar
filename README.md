@@ -1,5 +1,7 @@
 # Hi, I'm Eman Nassar 👋
 
+![A little dancing cactus](cactus-bounce.gif)
+
 🎓 Third-year Computer Science student at the Faculty of Computers and Informatics, Tanta University
 
 🔐 SOC Analyst, interested in cybersecurity and security operations
